@@ -70,9 +70,9 @@ This will start the app on local-host port given in the `.env` file
 
 ## Usage
 
-1. Enter a topic in the provided input field.
-2. Click on the "Generate Flashcards" button.
-3. The app will display the generated flashcards in a JSON format.
+1. Click **generate new** from the homepage
+2. Enter topic and prompt
+3. The app will create the flashcards and return you to the homepage where you can access them
 
 ## Contact
 
