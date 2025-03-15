@@ -53,12 +53,19 @@ Before running the app, make sure you set up your environment variables. Add all
 
 ### Running the App
 
-Start the application locally:
+1. Start the backend locally:
 
 ```bash
+cd backend
 npm run dev
 ```
 
+2. Start the frontend locally:
+
+```bash
+cd frontend
+npm run dev
+```
 This will start the app on local-host port given in the `.env` file 
 
 ## Usage
