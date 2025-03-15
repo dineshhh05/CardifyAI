@@ -1,6 +1,6 @@
 MONGODB_URI = <Enter your mongoDB URI here>
 
-PORT = <Whatever port you want to work. I used 5001>
+PORT = <Whatever port you want to work on. I used 5001>
 
 JWT_SECRET = <Call it whatever you want :)>
 NODE_ENV = developement
