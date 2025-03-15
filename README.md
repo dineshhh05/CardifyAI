@@ -1,7 +1,9 @@
+# Cardify-AI
+
 <img width="1000" alt="Screenshot 2025-03-13 at 11 32 02 PM" src="https://github.com/user-attachments/assets/483d8967-f435-4499-a9d7-c2c7885d3fcf" />
 
 
-# Cardify-AI
+
 
 **Cardify-AI** is an intelligent flashcard generation app powered by OpenAI. It allows users to generate flashcards on a wide range of topics, leveraging the capabilities of GPT-4 to create question-and-answer pairs for learning and study purposes with user authentication.
 
