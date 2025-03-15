@@ -1,4 +1,4 @@
-<img width="1427" alt="Screenshot 2025-03-13 at 11 31 42 PM" src="https://github.com/user-attachments/assets/efacb7e8-e1dc-433f-9c90-1e9ebaa1b15d" />
+<img width="142" alt="Screenshot 2025-03-13 at 11 32 02 PM" src="https://github.com/user-attachments/assets/483d8967-f435-4499-a9d7-c2c7885d3fcf" />
 
 
 # Cardify-AI
