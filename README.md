@@ -10,7 +10,7 @@
 ## Technologies Used
 
 - **Frontend**: React.js + Vite
-- **Backend**: Node.js
+- **Backend**: Node.js + Express.js
 - **API**: OpenAI 
 - **Database**: MongoDB
 - **Tech-Stack**: MERN
