@@ -1,0 +1,13 @@
+MONGODB_URI = <Enter your mongoDB URI here>
+
+PORT = <Whatever port you want to work. I used 5001>
+
+JWT_SECRET = <Call it whatever you want :)>
+NODE_ENV = developement
+
+OPENAI_API_KEY = <Enter your openAI API key>
+
+-- # Not yet implemented
+-- CLOUDINARY_CLOUD_NAME = 
+-- CLOUDINARY_API_KEY = 
+-- CLOUDINARY_API_SECRET = 
